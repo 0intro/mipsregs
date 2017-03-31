@@ -1,4 +1,4 @@
-[![Build Status](https://drone.io/github.com/0intro/mipsregs/status.png)](https://drone.io/github.com/0intro/mipsregs/latest)
+[![Build Status](https://travis-ci.org/0intro/mipsregs.svg?branch=master)](https://travis-ci.org/0intro/mipsregs)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/10202/badge.svg)](https://scan.coverity.com/projects/10202)
 
 mipsregs
