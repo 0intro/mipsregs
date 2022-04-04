@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/0intro/mipsregs.svg?branch=master)](https://travis-ci.org/0intro/mipsregs)
+[![Build Status](https://github.com/0intro/mipsregs/workflows/C/badge.svg)](https://github.com/0intro/mipsregs/actions/workflows/c.yml)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/10202/badge.svg)](https://scan.coverity.com/projects/10202)
 
 mipsregs
