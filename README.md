@@ -1,5 +1,5 @@
 [![Build Status](https://github.com/0intro/mipsregs/workflows/C/badge.svg)](https://github.com/0intro/mipsregs/actions/workflows/c.yml)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/10202/badge.svg)](https://scan.coverity.com/projects/10202)
+[![Coverity Scan Build Status](https://scan.coverity.com/projects/0intro-mipsregs/badge.svg)](https://scan.coverity.com/projects/0intro-mipsregs)
 
 mipsregs
 ========
